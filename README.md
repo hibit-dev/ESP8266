@@ -3,8 +3,8 @@ The ESP8266 has become an essential component in electronics, offering an afford
 
 ├ src  
 │  └ AT  
-│    ├ baudrate  
-│    └ dialogue  
+│    &nbsp;&nbsp;&nbsp;&nbsp;├ baudrate  
+│    &nbsp;&nbsp;&nbsp;&nbsp;└ dialogue  
 └ schema  
 
 ## Documentation
