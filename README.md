@@ -1,10 +1,11 @@
 # Wi-Fi Integration with ESP8266 module
 The ESP8266 has become an essential component in electronics, offering an affordable and compact means to integrate Wi-Fi connectivity into various projects. This tiny module has attracted a broad spectrum of users all aiming to implement smart home systems, IoT devices, and remote monitoring solutions. With its compact size, low power consumption, and seamless integration with Wi-Fi networks, the ESP8266 empowers innovators to create groundbreaking solutions in the digital age. The ESP8266 offers a user-friendly platform to bring your ideas to life. In this article, we will examine a particular variant of ESP8266 modules, specifically the ESP-01.  
 
+├ firmware  
 ├ src  
 │  └ AT  
 │    &nbsp;&nbsp;&nbsp;&nbsp;├ baudrate  
-│    &nbsp;&nbsp;&nbsp;&nbsp;└ dialogue  
+│    &nbsp;&nbsp;&nbsp;&nbsp;└ dialogue  	
 └ schema  
 
 ## Documentation
